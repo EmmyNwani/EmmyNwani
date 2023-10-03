@@ -14,6 +14,8 @@
   
   - [ISC2 Certified in Cybersecurity](file:///C:/Users/Home/Downloads/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Nwani.pdf)
 
+  - [Cisco IT Fundamentals](file:///C:/Users/Home/Downloads/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Nwani.pdf)
+
 <h2> 👀 Catch me on:</h2>
 
 [<img align="left" alt="Emmanuel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
