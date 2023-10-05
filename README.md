@@ -4,7 +4,10 @@
 <h2>💻 Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/EmmyNwani/Active-directory)
-
+  - [Phishing Link Quiz]()
+  - [Sentinel SIEM Workstation]()
+  - [Basic Python Program for Automated Network Scans]()
+  - [Basic Python Brute-forcer script]()
 
 <h2>🎓 Certifications:</h2>
  
@@ -20,21 +23,8 @@
 
 [<img align="left" alt="Emmanuel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Emmanuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Emmanuel | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 [twitter]: https://twitter.com/NwaniUgochukwu
 [linkedin]: https://linkedin.com/in/ugoochukwu-emmanuel-nwani/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[discord]: https://discord.com/emmynwani
