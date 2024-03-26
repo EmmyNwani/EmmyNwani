@@ -1,5 +1,10 @@
 <h2>Hi there.</h2> 
-<h1>I'm Emmanuel, a <a href="https://linkedin.com/in/ugoochukwu-emmanuel-nwani/">Cybersecurity Analyst ❤💻! </h1>
+<h1>I'm Emmanuel, a <a href="https://linkedin.com/in/ugoochukwu-emmanuel-nwani/">Seasoned <a></a>Cybersecurity Analyst ❤💻! </h1>
+<h2> Four Words:</h2>
+  
+**Kaizen** | **Humility**
+
+**Respect** | **Cybersecurity**
 
 <h2>💻 Projects:</h2>
 
