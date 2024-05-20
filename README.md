@@ -1,10 +1,5 @@
 <h2>Hi there.</h2> 
 <h1>I'm Emmanuel, a <a href="https://linkedin.com/in/ugoochukwu-emmanuel-nwani/">Seasoned <a></a>Cybersecurity Analyst ❤💻! </h1>
-<h2> Four Words:</h2>
-  
-**Kaizen** | **Dignity**
-
-**Respect** | **Cybersecurity**
 
 <h2>💻 Projects:</h2>
 
@@ -23,6 +18,12 @@
   - [ISC2 Certified in Cybersecurity](file:///C:/Users/Home/Downloads/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Nwani.pdf)
 
   - [Cisco IT Fundamentals](file:///C:/Users/Home/Downloads/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Nwani.pdf)
+
+<h2> Four Words:</h2>
+  
+**Kaizen** | **Dignity**
+
+**Respect** | **Cybersecurity**
 
 <h2> 👀 Catch me on:</h2>
 
