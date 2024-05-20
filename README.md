@@ -10,7 +10,7 @@
 
   - [Active Directory Home Lab](https://github.com/EmmyNwani/Active-directory)
   - [Phishing Link Quiz]()
-  - [Sentinel SIEM Workstation]()
+  [- SIEM-Lab](https://github.com/EmmyNwani/SIEM-Lab)
   - [Basic Python Program for Automated Network Scans]()
   - [Basic Python Brute-forcer script]()
 
