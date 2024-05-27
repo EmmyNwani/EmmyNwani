@@ -1,4 +1,4 @@
-<h3>Hi there.</h3> 
+<h2>Hi there.</h2> 
 <h1>I'm Emmanuel, a <a href="https://linkedin.com/in/ugoochukwu-emmanuel-nwani/">Seasoned <a></a>Cybersecurity Analyst ❤💻! </h1>
 
 <h2>💻 Projects:</h2>
