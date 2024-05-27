@@ -19,7 +19,7 @@
 
   - [Cisco IT Fundamentals](file:///C:/Users/Home/Downloads/Official_CC_Course_Completion_Certificate_Official_ISC2_CC_Online_Self-Paced_Training_-_1M_Nwani.pdf)
 
-<h2> Four Words:</h2>
+<h2> ⚖️Four Words:</h2>
   
 |Kaizen | Dignity|
 |-------|---------|
