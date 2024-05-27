@@ -21,9 +21,9 @@
 
 <h2> ⚖️Four Words:</h2>
   
-|Kaizen | Dignity|
-|-------|---------|
-|Respect | Cybersecurity|
+|Kaizen | Dignity| Respect| Cybersecurity|
+|-------|---------|---------|------------|
+
 
 <h2> 👀 Catch me on:</h2>
 
