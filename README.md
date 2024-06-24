@@ -3,9 +3,9 @@
 
 <h2>💻 Projects:</h2>
 
+  - [SIEM-Lab](https://github.com/EmmyNwani/SIEM-Lab)
   - [Active Directory Home Lab](https://github.com/EmmyNwani/Active-directory)
   - [Phishing Link Quiz]()
-  - [SIEM-Lab](https://github.com/EmmyNwani/SIEM-Lab)
   - [Basic Python Program for Automated Network Scans]()
   - [Basic Python Brute-forcer script]()
 
