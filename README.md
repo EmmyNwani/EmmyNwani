@@ -21,7 +21,7 @@
 
 <h2> ⚖️Four Words:</h2>
   
-|Kaizen | Dignity| Respect| Cybersecurity|
+|Kaizen | Dignity| Respect| Humility|
 |-------|---------|---------|------------|
 
 
